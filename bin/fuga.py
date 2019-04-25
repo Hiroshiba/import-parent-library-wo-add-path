@@ -1,2 +1,5 @@
+import library
+
+
 def fuga():
-    print('fuga')
+    library.echo('fuga')
